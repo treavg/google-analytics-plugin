@@ -3,7 +3,7 @@
   "version": "1.8.2b",
   "description": "Google Universal Analytics Plugin With No adSupport",
   "cordova": {
-    "id": "treavg-cordova-plugin-google-analytics",
+    "id": "cordova-plugin-google-analytics-treavg",
     "platforms": [
       "android",
       "ios"
